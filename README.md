@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/tonik/theme.svg?branch=master)](https://travis-ci.org/tonik/theme)
 
+**NOTE:** this is a fork, not the original project
+
 ### Tonik is a WordPress Starter Theme which aims to modernize, organize and enhance some aspects of WordPress theme development.
 
 Take a look at what is waiting for you:
